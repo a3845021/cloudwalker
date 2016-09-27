@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>1</string>
+		<key>name</key>
+		<string>Hero 1</string>
+		<key>alias</key>
+		<string>bee</string>
+		<key>price</key>
+		<string>0</string>
+		<key>img</key>
+		<string>bee1.png</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2</string>
+		<key>name</key>
+		<string>Hero 1</string>
+		<key>alias</key>
+		<string>doctor</string>
+		<key>price</key>
+		<string>80</string>
+		<key>img</key>
+		<string>doctor1.png</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>3</string>
+		<key>name</key>
+		<string>Hero 1</string>
+		<key>alias</key>
+		<string>doremon</string>
+		<key>price</key>
+		<string>200</string>
+		<key>img</key>
+		<string>doremon1.png</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4</string>
+		<key>name</key>
+		<string>Hero 1</string>
+		<key>alias</key>
+		<string>flyer</string>
+		<key>price</key>
+		<string>350</string>
+		<key>img</key>
+		<string>flyer1.png</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>5</string>
+		<key>name</key>
+		<string>Hero 1</string>
+		<key>alias</key>
+		<string>gangter</string>
+		<key>price</key>
+		<string>500</string>
+		<key>img</key>
+		<string>gangter1.png</string>
+	</dict>
+</array>
+</plist>
